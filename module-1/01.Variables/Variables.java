@@ -1,6 +1,10 @@
 public class Variables {
     public static void main(String[] args) {
         int passengers = 5;
-        System.out.println(passengers);
+        String name = "hicham";
+        char character = 'A';
+        System.out.println("int "+passengers);
+        System.out.println("string " +name);
+        System.out.println("just one character "+character);
     }
 }
