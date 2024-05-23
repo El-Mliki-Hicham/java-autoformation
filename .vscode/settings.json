@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "module-1/HelloWorld",
+        "module-1/01.Variables"
+    ]
+}
