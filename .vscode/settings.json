@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "module-1/HelloWorld",
-        "module-1/01.Variables"
-    ]
+        "Module-1/02.Variables/Part-2"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
