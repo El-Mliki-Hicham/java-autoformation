@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Module-1/04.Functions",
+        "Module-1/03.Booleans and Conditionals",
         "Module-1/02.Variables/Part-2",
-        "Module-1/03.Booleans and Conditionals"
+        "Module-1/05.Loops"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
