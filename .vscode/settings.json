@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "Module-1/06.Arrays",
+        "Module-1/05.Loops",
         "Module-1/04.Functions",
         "Module-1/03.Booleans and Conditionals",
         "Module-1/02.Variables/Part-2",
-        "Module-1/05.Loops",
-        "Module-1/05.Pokerito"
+        "Module-1/07.Project FM"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
