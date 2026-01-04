@@ -1,13 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "module-2/01.Objects",
-        "Module-1/07.Project FM",
-        "Module-1/06.Arrays",
-        "Module-1/05.Loops",
-        "Module-1/04.Functions",
-        "Module-1/03.Booleans and Conditionals",
-        "Module-1/02.Variables/Part-2",
-        "Module 2 - Object Oriented Programming/01.Objects"
+        "Module 2 - Object Oriented Programming/01.Objects",
+        "Module 2 - Object Oriented Programming/02.ArrayList/Challenge"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
