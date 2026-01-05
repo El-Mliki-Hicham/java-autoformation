@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Module 2 - Object Oriented Programming/03.Error handling",
         "Module 2 - Object Oriented Programming/02.ArrayList/Challenge",
         "Module 2 - Object Oriented Programming/01.Objects",
-        "Module 2 - Object Oriented Programming/03.Error handling"
+        "Module 2 - Object Oriented Programming/04.Extra practice"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
