@@ -1,10 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "Module 2 - Object Oriented Programming/06.Static And Final",
+        "Module 2 - Object Oriented Programming/05.Map Collections",
         "Module 2 - Object Oriented Programming/04.Extra practice",
         "Module 2 - Object Oriented Programming/03.Error handling",
         "Module 2 - Object Oriented Programming/02.ArrayList/Challenge",
         "Module 2 - Object Oriented Programming/01.Objects",
-        "Module 2 - Object Oriented Programming/05.Map Collections"
+        "Module 2 - Object Oriented Programming/07.Enums"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
