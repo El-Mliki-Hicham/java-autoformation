@@ -7,6 +7,11 @@ public class Shirt extends Product {
     public enum Size {SMALL, MEDIUM, LARGE}
 
 
+    public Shirt(Size size,int price,String color ,String brand){
+        super(price, color, brand);
+        this.size = size ;
+    }
+
     public Size getSize() {
         return this.size;
     }

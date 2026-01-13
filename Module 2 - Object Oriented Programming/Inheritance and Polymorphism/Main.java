@@ -5,9 +5,8 @@ public class Main {
     
     public static void main(String[] args) {
         
-        Shirt shirt = new Shirt(); 
-        shirt.setPrice(500);
-        shirt.setSize(Size.MEDIUM);
+        Shirt shirt = new Shirt(Size.MEDIUM, 5600,"RED" , "Nike"); 
+       
 
     }
 }
